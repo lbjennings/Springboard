@@ -1,17 +1,10 @@
 # Springboard
-A small demonstration of JSON usage. 
+A small demonstration of Mode SQL
 
-Project provided by Springboard. 
-Data source and links are annotated in notebook. 
+The Mode case study can be found here:
+https://community.modeanalytics.com/sql/tutorial/a-drop-in-user-engagement/
 
-First portion of the notebook is provided by Springboard with Student work beginning after the header "Project work starts here:"
+Work files on Mode cand be find at this link:
+https://modeanalytics.com/lucaj/reports/e30bbeabf92d
 
-Notebook executed with Feb 2018 
-
-CPython 2.7.14
-IPython 5.4.1
-
-numpy 1.13.3
-pandas 0.20.3
-
-Additional packages: JSON
+PDF shows summary of Yammer Engagement Case Study.  
