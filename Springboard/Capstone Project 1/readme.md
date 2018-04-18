@@ -16,9 +16,8 @@ RandomForest.ipynb : Is a lab notebook for trying different ideas in the develop
 SVD.ipynb : Is a single vector decomposition recommender. It makes recommendations based on customer purchase similarities. 
 
 Papers folder:
-
 A Data Story.pdf  :  Is a paper detailing the trends and story the data tells from the exploratory process.
-Capstone 1 Milestone Report.pdg : Is a paper publishing the progress and finding made at the halfway point of the project.
+Capstone 1 Milestone Report.pdf : Is a paper publishing the progress and finding made at the halfway point of the project.
 Data_Wrangling.pdf : Is a paper describing the data cleaning and initial preprocessing of the data for analysis.
 Project_Statistics.pdf : Is the paper describing the statistical analysis of the trends explored in the data exploration. 
 
