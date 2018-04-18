@@ -3,7 +3,7 @@ Predicting grocery store customer reorder habits using InstaCart data.
 The main notebooks are ML_grocery_basket and Capstone_EDA. SVD is a mini-project
 building a singe decomposition recommender from scrap.  
 
-Documents explanation 
+Document explanation 
 
 Notebooks:
 Capstone_EDA.ipynb : Is the notebook used to wrangle, clean and explore the data. 
