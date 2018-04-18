@@ -22,3 +22,5 @@ Data_Wrangling.pdf : Is a paper describing the data cleaning and initial preproc
 Project_Statistics.pdf : Is the paper describing the statistical analysis of the trends explored in the data exploration. 
 
 Data Folder: Instructions on where to find access to data and some explanation on the raw data details.
+
+requirements.txt : Is the packages for environment setup to run the project
