@@ -13,6 +13,8 @@ linear_regression :  A Jupyter Notebook demonstrating linear regression for a da
 
 naive_bayes :  A Jupyter Notebook demonstrating text analysis using a subset of movie reviews from the rotten tomatoes database. Naive Bayes Model using word counts and n-grams, a Random Forest Model and TF-IDF Model weighting instead of word counts compared against each other in this text analysis. 
 
+spark : A folder with the main document a Jupyter Notebook demonstrating machine learning with PySpark. Logistic Regresstion, Linear Regression, and a Random Forest Regression done with Apache Spark. 
+
 Networking :  Is a folder containing course assignments related to networking and career coaching.
 
 racial_discrimination_exercise_2.ipynb : Is a Jupyter Notebook demonstrating statistical applications to examine racial discrimination in the US job market.
