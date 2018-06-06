@@ -1,7 +1,14 @@
-List of projects for Springboard Data Science Course
+This project explores Donald Trump Tweets with NLTK sentiment analysis and Gensim topic extraction. 
 
-requirements.txt : Is the packages for environment setup to run the notebook
+For replication, start with "data_wrangling.pdf" then "sentiment.ipynb", and "finally topic_extraction.ipynb". A presentation for general audiences is provided under "Final_Presentation.pptx". A more technical discussion is available in the paper "capstone_2_final_paper".  
 
-Capstone Project 1 :  Is a data science project looking into grocery customer shopping habits. The data set comes from InstaCart and is used to explore customer habits and to predict future reorders for grocery products. It brings together several ideas and concepts from the course. It demonstrates a supervised machine learning model to predict customer recorders.
+The data for the project was obtained using code by Jeremy Cunningham here:
+https://github.com/j2cunningham/GetOldTweets-python
 
-Mini-Projects : Holds several examples of online class assignments using different data science techniques: clustering, linear regression, logarithmic regression, naive bayes classification, SQL analytics, and JSON usage. Course career and networking documents located here too.
+"sentiment.ipynb" :  Is a Jupyter notebook that imports the scrapped csv files. Cleans the data and applies NLTK's sentiment      analysis to both Donald Trump Tweets and tweets from 4 major news broadcasters. The data is then visualized for interactive exploration with Bokeh. 
+
+"topic_extraction.ipynb" : Is a Jupyter notebook that picks up after "sentiment.ipynb". This notebook imports that notebook's work and contains the topic extraction. Topic extraction was done with Gensim's LDA transformation. The hyperparameters were tuned using SKLearn's clustering alogorithms. The data was then visualized using Bokeh for interactive exploration. 
+
+"capstone_2_milestone_report" : Is a progress accessment in the middle of the project.
+
+"data_wrangling.pdf" Is a paper explaining the data collection steps, how to download the data yourself, and contact instructions if you just want the csv files. 
