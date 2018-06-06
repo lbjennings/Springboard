@@ -6,4 +6,4 @@ Capstone Project 1 :  Is a data science project looking into grocery customer sh
 
 Mini-Projects : Holds several examples of online class assignments using different data science techniques: clustering, linear regression, logarithmic regression, naive bayes classification, SQL analytics, and JSON usage. Course career and networking documents located here too.
 
-Capstone Project 2 "Natural Language Processing: Exploring Tweets with Trump" : A data science project using sentiment analysis and topic extraction to explore twitter influencers. 
+Capstone Project 2 - "Natural Language Processing: Exploring Tweets with Trump" : A data science project using sentiment analysis and topic extraction to explore twitter influencers.  
