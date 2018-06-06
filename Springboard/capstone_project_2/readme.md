@@ -2,7 +2,7 @@ This project explores Donald Trump Tweets with NLTK sentiment analysis and Gensi
 
 For replication, start with "data_wrangling.pdf" then "sentiment.ipynb", and "finally topic_extraction.ipynb". A presentation for general audiences is provided under "Final_Presentation.pptx". A more technical discussion is available in the paper "capstone_2_final_paper".  
 
-"Final_Presentation.pptx" : Powerpoint for general audiences discussing the project processa and results.
+"Final_Presentation.pptx" : Powerpoint for general audiences discussing the project process and results.
 
 "capstone_2_final_paper" : Paper discussing the techincal results of the project.
 
