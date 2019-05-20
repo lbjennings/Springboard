@@ -1,5 +1,9 @@
 This project explores Donald Trump Tweets with NLTK sentiment analysis and Gensim topic extraction. 
 
+We look at how a company can use Natural Language Processing (NLP) to understand an influencer. The president, Doland Trump, is such an influencer. We look at Donald Trump’s tweets to see if we can gain insight into his influence. We look to provide some tools using NLP to assist in making these influencer based decisions. We start with looking at the sentiment of his tweets then pull topics from his tweets. 
+
+File descriptions below: 
+
 For replication, start with “data_wrangling.pdf," then "sentiment.ipynb", and "finally topic_extraction.ipynb". A presentation for general audiences is provided under "Final_Presentation.pptx". A more technical discussion is available in the paper "capstone_2_final_paper".  
 
 "Final_Presentation.pptx" : Powerpoint for general audiences discussing the project process and results.
